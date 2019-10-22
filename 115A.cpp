@@ -5,6 +5,7 @@ int main()
 {
     //cout << "Hello World!" << endl;
     int n , ans = 0 , count = 0;
+    //cout << "Hello World!" << endl;
     cin >> n;
     int a[n+9];
     for(int i = 1 ; i <= n ;i++)
