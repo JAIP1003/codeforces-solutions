@@ -3,6 +3,7 @@
 using namespace std;
 #define ll long long
 map<pair<ll , ll> , ll> allowed;
+//jai prakash
 queue<pair<ll , ll> > q;
 ll dx[] = {1 , 1 , 1 , -1 , -1 , -1 , 0 , 0};
 ll dy[] = {1 , 0 , -1 , 1 , 0 , -1 , 1 , -1};
