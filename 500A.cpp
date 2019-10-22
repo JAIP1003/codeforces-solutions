@@ -2,7 +2,7 @@
 #include<vector>
 #include<map>
 using namespace std;
-#define ll long long
+#define ll long long//start using main
 int main()
 {
     ll n , t;
