@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+    //enter the value of n,m,x
     int n ,ans = 0 , m , x;
     cin >> n;
     int a[n] , b[101];
